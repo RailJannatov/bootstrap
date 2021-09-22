@@ -1,0 +1,23 @@
+.number {
+    display: inline-block;
+    background-color: black;
+    border-radius: 50%;
+    height: 24px;
+    color: #fff;
+    width: 18px;
+}
+
+.star {
+    display: flex;
+}
+
+.sale-style {
+    color: #fff;
+    top: 4px;
+    right: 16px;
+    border-radius: 9px;
+}
+
+.color-gold {
+    color: gold;
+}
